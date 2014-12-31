@@ -13,6 +13,8 @@
 		A5F7B3291A54033400376708 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A5F7B3281A54033400376708 /* Images.xcassets */; };
 		A5F7B32C1A54033400376708 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = A5F7B32A1A54033400376708 /* LaunchScreen.xib */; };
 		A5F7B3381A54033400376708 /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5F7B3371A54033400376708 /* PostcardTests.swift */; };
+		A5F7B3421A540D1800376708 /* JRT.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A5F7B3411A540D1800376708 /* JRT.jpg */; };
+		A5F7B3441A540F8100376708 /* Bo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A5F7B3431A540F8100376708 /* Bo.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		A5F7B3311A54033400376708 /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A5F7B3361A54033400376708 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A5F7B3371A54033400376708 /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		A5F7B3411A540D1800376708 /* JRT.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = JRT.jpg; sourceTree = "<group>"; };
+		A5F7B3431A540F8100376708 /* Bo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Bo.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		A5F7B31F1A54033400376708 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				A5F7B3431A540F8100376708 /* Bo.jpg */,
+				A5F7B3411A540D1800376708 /* JRT.jpg */,
 				A5F7B3201A54033400376708 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -192,8 +198,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A5F7B3441A540F8100376708 /* Bo.jpg in Resources */,
 				A5F7B3271A54033400376708 /* Main.storyboard in Resources */,
 				A5F7B32C1A54033400376708 /* LaunchScreen.xib in Resources */,
+				A5F7B3421A540D1800376708 /* JRT.jpg in Resources */,
 				A5F7B3291A54033400376708 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
